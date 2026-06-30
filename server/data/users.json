@@ -1,0 +1,16 @@
+[
+  {
+    "id": "u_demo",
+    "email": "demo@example.com",
+    "password": "$2a$10$srV2mNLuHd/bhjOzRRVH3eCfQdvNfH.5g9bVond5.YVB/FFtME1WK",
+    "name": "Demo User",
+    "createdAt": "2026-06-30T06:57:05.060Z"
+  },
+  {
+    "id": "u_1782803317708656",
+    "email": "soundaryass264@gmail.com",
+    "password": "$2a$10$B4UWj.LRCfxXJDZ1mAVIg.Wp0egeUEMma5NfIQN9EOciue8iSziw2",
+    "name": "Soundarya",
+    "createdAt": "2026-06-30T07:08:37.708Z"
+  }
+]
